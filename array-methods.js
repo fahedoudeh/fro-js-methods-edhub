@@ -11,7 +11,7 @@ console.log(cookieIngredients);
 
 /* Opdracht 1: */
 // Voeg een nieuw item toe aan onderstaande array en log de gehele array in de terminal om te kijken is het gelukt is
-// ---- Verwachte uitkomst: [ 'Hawai', 'Margherita', 'Salami' ]
+// ---- Verwachte uitkomst: [ 'Hawai', 'Margherita',  'Salami' ]
 
 const pizzas = ["Hawai", "Margherita"];
 
